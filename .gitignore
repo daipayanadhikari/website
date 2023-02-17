@@ -1,6 +1,0 @@
-*.def
-*.class
-*.bk
-*.php
-!index.php
-[aeiou]*.txt
